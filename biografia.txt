@@ -32,3 +32,5 @@ git diff 9b9475485db4aa79a26b0a87af5a1b78d9283132 421adf5c219b0f4a2921bb6aaa984d
 ****************************************************************
 Volver en el tiempo
 git reset 3d5f3b1741584caaf0fbda41759630edf56aacc8 --hard o --soft
+
+git log --stats //Se verán los cambios
